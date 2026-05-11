@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.a959ea9f.css",
+    "main.js": "/portfolio-website/static/js/main.707f15a2.js",
+    "static/media/CV.pdf": "/portfolio-website/static/media/CV.8dfeecddac0b84cba8e8.pdf",
+    "static/media/revicons.eot": "/portfolio-website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-website/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio-website/index.html",
+    "main.a959ea9f.css.map": "/portfolio-website/static/css/main.a959ea9f.css.map",
+    "main.707f15a2.js.map": "/portfolio-website/static/js/main.707f15a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a959ea9f.css",
+    "static/js/main.707f15a2.js"
+  ]
+}
